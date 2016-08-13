@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VoidBattle
+## Notes: Removes BG spam from chat
+## Author: moh
+## Version: 1.0
+
+VoidBattle.lua
